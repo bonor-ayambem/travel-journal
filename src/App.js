@@ -9,6 +9,9 @@ export default function App(){
         <img src={globe} alt='globe icon' className="globe-icon"/>
         <p className="title">my travel journal</p>
       </header>
+      <body>
+        
+      </body>
     </div>
   )
 }

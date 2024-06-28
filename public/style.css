@@ -2,6 +2,22 @@
   box-sizing: border-box;
 }
 
+h1, p {
+  font-family: Inter;
+}
+
+body {
+  /* display: flex;
+  flex-direction: column;
+  width: 99%;
+  height: 91vh;
+  margin-left: 20px; */
+}
+
+section {
+  margin-left: 20px;
+}
+
 .container {
   display: flex;
   flex-direction: column;
@@ -25,6 +41,9 @@
 
 .title {
   color: white;
-  font-family: Inter;
   font-size: medium;
+}
+
+.place-title {
+  font-size: xx-large;
 }
