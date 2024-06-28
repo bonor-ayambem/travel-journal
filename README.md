@@ -1,3 +1,6 @@
+# Travel Journal with JSX React
+This project was developed in React and deployed here: "https://bonor-ayambem.github.io/travel-journal"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
